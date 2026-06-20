@@ -1,6 +1,6 @@
 # uart-verilog
 
-Simple verilog UART.
+### UART communication protocol implemented in Verilog RTL with transmitter, receiver, and baud rate generatord.
 
 A simple UART for use in an FPGA as a debug engine.  Requires a 50MHz input
 clock that gets divided into clock enables for a 16x oversampling receiver
