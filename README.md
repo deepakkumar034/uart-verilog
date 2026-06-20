@@ -1,7 +1,7 @@
 # uart-verilog
 
 UART communication protocol implemented in Verilog RTL with transmitter, receiver, baud rate generator, and testbench verification.
-``` text
+<pre>
 UART in Verilog
 
 A UART (Universal Asynchronous Receiver Transmitter) communication protocol implemented in Verilog RTL. The design includes a transmitter, receiver, and baud rate generator suitable for FPGA-based embedded systems and digital design projects.
@@ -35,4 +35,4 @@ Tools Used
 * GTKWave
 * Yosys
 * Netlistsvg
-```
+<pre>
